@@ -1,0 +1,7 @@
+- Arduino UNO
+- IR Sensors × 4
+- LEDs (Red, Yellow, Green × 4 lanes)
+- Resistors (220Ω)
+- Jumper Wires
+- Breadboard
+- Power Supply (USB or Battery)
