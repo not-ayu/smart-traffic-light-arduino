@@ -1,0 +1,9 @@
+Timestamp,Lane,VehicleDetected,GreenTime(s)
+00:00:01,North,Yes,15
+00:00:17,East,Yes,15
+00:00:33,South,No,3
+00:00:37,West,No,3
+00:00:41,North,No,3
+00:00:45,East,No,3
+00:00:49,South,Yes,15
+00:01:05,West,Yes,15
