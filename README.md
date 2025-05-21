@@ -27,6 +27,9 @@ This project uses an Arduino UNO and IR sensors to create an intelligent traffic
 ## How it Works
 IR sensors detect vehicles; Arduino adjusts green time based on traffic in each lane.
 
+## Demo Video
+[Click to watch the project demo](https://drive.google.com/file/d/1PrIAL97X0dS59FabtLDIlci2gXhNq0YZ/view?usp=drivesdk)
+
 ## Limitations
 - Limited to IR detection range
 - No emergency vehicle prioritization
